@@ -1,2 +1,2 @@
-# hot-or-cold-starter
-Starter Files for FEWD Hot or Cold Project
+# Thinkful Hot Or Cold Exercise
+A "Hot Or Cold" exercise exercise from thinkful.com 
