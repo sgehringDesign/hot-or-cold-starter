@@ -3,7 +3,7 @@
 A "Hot Or Cold" exercise exercise from thinkful.com.
 
 ###Technology
-HTML5, CSS, JavaScript, JQuery,
+HTML5, CSS, JavaScript, JQuery
 
 ###Exercise Instructions
 Using JavaScript & JQuery develop this functionality.
